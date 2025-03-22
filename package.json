@@ -1,0 +1,19 @@
+{
+  "name": "major-cities",
+  "version": "1.0.0",
+  "description": "A simple NPM package to fetch cities data from a CSV file",
+  "main": "index.js",
+  "keywords": ["cities", "csv", "data"],
+  "author": "Shruti Anantwar",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shruti284/major-cities"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "csv-parser": "^3.2.0"
+  }
+}
